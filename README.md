@@ -36,7 +36,8 @@ Jace Feinstein<br>
 Special thanks to tutor Eric Sayer for helping with application.
 
 ## Links
-https://github.com/jacef790/Note-Taker<br>
+github repo:https://github.com/jacef790/Note-Taker<br>
+deployed page: https://murmuring-cliffs-95595.herokuapp.com/
 
 
 
