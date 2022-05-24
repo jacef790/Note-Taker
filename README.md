@@ -32,8 +32,12 @@ Create, Save, and delete notes.
 
 
 ## Contributors
-Jace Feinstein
+Jace Feinstein<br>
 Special thanks to tutor Eric Sayer for helping with application.
+
+## Links
+https://github.com/jacef790/Note-Taker<br>
+
 
 
 ## Contact
